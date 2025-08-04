@@ -26,11 +26,17 @@ Una aplicación de escritorio desarrollada en Python con Tkinter que permite ges
 
 ## 📸 Capturas de pantalla
 
-> Puedes añadir imágenes aquí si deseas. Ejemplo:
-> ![Pantalla principal](screenshots/Interfaz.png)
-> ![Pantalla principal](screenshots/Agregar_Tarea.png)
-> ![Pantalla principal](screenshots/Actualizar_Tarea.png)
-> ![Pantalla principal](screenshots/Ver_Contenido.png)
+> 🧠 Interfaz principal de la aplicación:  
+> ![Interfaz](../screenshots/Interfaz.png)
+
+> ➕ Ventana para agregar una nueva tarea: 
+> ![Agregar Tarea](../screenshots/Agregar_Tarea.png)
+
+> ✏️ Formulario para actualizar una tarea existente:
+> ![Actualizar Tarea](../screenshots/Actualizar_Tarea.png)
+
+> 📖 Vista detallada de una tarea seleccionada: 
+> ![Ver Contenido](../screenshots/Ver_Contenido.png)
 
 ---
 
