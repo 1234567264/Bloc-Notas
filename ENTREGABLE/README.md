@@ -27,7 +27,10 @@ Una aplicación de escritorio desarrollada en Python con Tkinter que permite ges
 ## 📸 Capturas de pantalla
 
 > Puedes añadir imágenes aquí si deseas. Ejemplo:
-> ![Pantalla principal](screenshots/main.png)
+> ![Pantalla principal](screenshots/Interfaz.png)
+> ![Pantalla principal](screenshots/Agregar_Tarea.png)
+> ![Pantalla principal](screenshots/Actualizar_Tarea.png)
+> ![Pantalla principal](screenshots/Ver_Contenido.png)
 
 ---
 
