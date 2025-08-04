@@ -33,8 +33,18 @@ Una aplicación de escritorio desarrollada en Python con Tkinter que permite ges
 
 ## 🚀 Cómo usar
 
-1. **Clona el repositorio:**
 
-```bash
+```bash 
+1. **Clona el repositorio:**
 git clone https://github.com/1234567264/Bloc-Notas.git
 cd Bloc-Notas
+
+2. **Instala las dependencias:**
+pip install tkcalendar
+
+3. **Ejecuta la Aplicación:**
+python gestor_tareas.py
+
+(Reemplaza gestor_tareas.py con el nombre real del archivo si es diferente)
+
+```
