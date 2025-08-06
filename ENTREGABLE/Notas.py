@@ -119,7 +119,7 @@ class Aplicacion:
             # fila[0] = rowid, fila[1] = título, fila[3] = prioridad, fila[4] = fecha límite
             self.lista_tareas.insert("", tk.END, values=(fila[0], fila[2], fila[4], fila[5]))
         
-        print(fila)  # te muestra: (rowid, titulo, descripcion, prioridad, fecha_limite, fecha_creacion, historial, carpeta_guardado)
+        #print(fila)  # te muestra: (rowid, titulo, descripcion, prioridad, fecha_limite, fecha_creacion, historial, carpeta_guardado)
 
 
 
